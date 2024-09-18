@@ -68,6 +68,7 @@ build/
 .idea/
 *.sln.iml
 .idea_modules/
+PracticeFromScratch.iml
 
 # Linux/macOS swap files
 *.swp
