@@ -42,10 +42,8 @@ nbdist/
 
 # Visual Studio Code files
 .vscode/
-.vscode/settings.json
-.vscode/tasks.json
-.vscode/launch.json
-.vscode/extensions.json
+.vscode/*
+/.project
 
 # OS-specific files
 .DS_Store
