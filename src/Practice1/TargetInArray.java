@@ -28,4 +28,4 @@ public class TargetInArray {
 		System.out.println(pairs[0][0]+" "+ pairs[0][1]);
 		scan.close();
 	}
-}
+} //file is working as expected
